@@ -1,0 +1,11 @@
+README.md
+setup.py
+academicjobscraper/__init__.py
+academicjobscraper/cli.py
+academicjobscraper/scraper.py
+academicjobscraper.egg-info/PKG-INFO
+academicjobscraper.egg-info/SOURCES.txt
+academicjobscraper.egg-info/dependency_links.txt
+academicjobscraper.egg-info/entry_points.txt
+academicjobscraper.egg-info/requires.txt
+academicjobscraper.egg-info/top_level.txt

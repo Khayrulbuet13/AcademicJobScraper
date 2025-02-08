@@ -1,0 +1,21 @@
+# Python
+.history/
+dump/
+__pycache__/
+
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
