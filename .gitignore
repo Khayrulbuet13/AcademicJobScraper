@@ -2,7 +2,7 @@
 .history/
 dump/
 __pycache__/
-
+test.py
 
 # Virtual Environment
 venv/
